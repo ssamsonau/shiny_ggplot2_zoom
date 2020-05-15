@@ -5,7 +5,7 @@ library(shinycssloaders) ## spinner
 
 ui <- shinyUI(fluidPage(
   
-  titlePanel("Interactive ggplot2 in Shiny"),
+  titlePanel("Zoom ggplot2 in Shiny"),
   
   tags$hr(),
   verticalLayout(
